@@ -23,3 +23,11 @@ Streamlit y Requests. **pip freeze > requeriments.txt**
 <img width="570" height="58" alt="Captura desde 2025-09-02 09-01-59" src="https://github.com/user-attachments/assets/b398b802-98d0-4e77-8b7a-78a76f5e24ce" />
 
 📎 Para salir del entorno con el comando **deactivate**
+
+## 🤖 Chat bot
+
+<img width="618" height="57" alt="Captura desde 2025-09-03 13-09-30" src="https://github.com/user-attachments/assets/a57a1502-f854-49e5-ad5a-344c7725cdb3" />
+
+<img width="1396" height="805" alt="Captura desde 2025-09-03 13-09-05" src="https://github.com/user-attachments/assets/e84d586f-205b-4095-b7f9-d9a6587dd5b1" />
+
+📎 Para crear el chatbot, se creo un documento tipo **CHATBOT.py**, con el cual dentro de el se desarrolaria toda la visualización del chatbot.
